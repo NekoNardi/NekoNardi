@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NekoNardi
+- 👀 I’m interested in ... Create a better world and learn.
+- 🌱 I’m currently learning ... HTML, CSS, C and C++.
+- 💞️ I’m looking to collaborate on ... Everything.
+- 📫 How to reach me ... nardiluizfellype@gmail.com
